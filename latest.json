@@ -1,10 +1,10 @@
 {
   "version": "0.2.21",
-  "notes": "VideoMark 0.2.21 — Wobble and Melt text motion reduced further for a calmer look, faster animated-text preview, and preview text now sits exactly where exports render it.",
-  "pub_date": "2026-09-22T02:06:07Z",
+  "notes": "VideoMark 0.2.21",
+  "pub_date": "2026-09-22T22:17:33Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUN5WWduRlU1MmRESEJzcjN3Wk1vNDV0dDJxYStiSllCL1VRTURCamNuTXVYUW8zOFJLRXEzT0UyTkZnSDNPb2FCNDRuOGtqZThlWFN0TDk0UVVEWHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMDQzMTkwCWZpbGU6VmlkZW9NYXJrXzAuMi4yMV94NjQtc2V0dXAuZXhlCmptVzY2QXozbklOS3N5WWxLZ2J6bG1PMlpCVDBscDlVMENMb3RwZFVLYUhpZTA3dDVlQ3RpWERqQmk0NDdHTVlnQ1ZPNS9YTU1NcVB5bk9NMlZldENnPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYVBub0NxdmU2akp3dWI2MGIxZnEzTTM2ZTBHUDVjRnA2RmNEYURlVDVsYnpKd3hjbFpzYUMvWmhCZnR0YjhKV2R3T0o0OHJvK2wxaGxwbFROa2F0cmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTE1NDUxCWZpbGU6VmlkZW9NYXJrXzAuMi4yMV94NjQtc2V0dXAuZXhlCndxcEhueW96Qm9Sc01VMzRjZGh4ZVdETitPbThKdDlMbjg3MEZJNHFYRGpaVXJVTFBJbTJObm1YUlljdFh5QzJtRzlmT3YveEJCVml6aElUR3lLWEFnPT0K",
       "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.21/VideoMark_0.2.21_x64-setup.exe"
     }
   }
