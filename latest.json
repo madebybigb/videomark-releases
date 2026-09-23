@@ -1,11 +1,11 @@
 {
-  "version": "0.2.21",
-  "notes": "VideoMark 0.2.21",
-  "pub_date": "2026-09-22T22:17:33Z",
+  "version": "0.2.22",
+  "notes": "VideoMark 0.2.22 — hardened auto-updater (update feed no longer shadowed by other releases, dismissible update banner), single-instance guard, autosave flush on close, FFmpeg download mirror fallback, and release links that always land on the newest VideoMark release.",
+  "pub_date": "2026-09-22T22:30:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYVBub0NxdmU2akp3dWI2MGIxZnEzTTM2ZTBHUDVjRnA2RmNEYURlVDVsYnpKd3hjbFpzYUMvWmhCZnR0YjhKV2R3T0o0OHJvK2wxaGxwbFROa2F0cmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTE1NDUxCWZpbGU6VmlkZW9NYXJrXzAuMi4yMV94NjQtc2V0dXAuZXhlCndxcEhueW96Qm9Sc01VMzRjZGh4ZVdETitPbThKdDlMbjg3MEZJNHFYRGpaVXJVTFBJbTJObm1YUlljdFh5QzJtRzlmT3YveEJCVml6aElUR3lLWEFnPT0K",
-      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.21/VideoMark_0.2.21_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUZ0aWpGL3UwQlJlQUlXc2EzT05raDUzZkt5cWNrV2JUMnBSOU1ZTHVINFFmaTYzT2xYbE5QQVpzelFIT2NZcTU5OG55TkcxcnVva1F4TlBMVTFIY1FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMTI3MDY0CWZpbGU6VmlkZW9NYXJrXzAuMi4yMl94NjQtc2V0dXAuZXhlClhwbEh1Y3dGZVZQWUFFVmtLM2FqNCtrL2RqYzBSOXBNbGRoRk5nN2dZT25nc2hmVUoxR1krYzdGSzFJR2Y0cy9OSmFDOWxQUlVtakQzdVdxV0hicEF3PT0K",
+      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.22/VideoMark_0.2.22_x64-setup.exe"
     }
   }
 }
