@@ -1,11 +1,11 @@
 {
-  "version": "0.2.23",
-  "notes": "VideoMark 0.2.23",
-  "pub_date": "2026-09-25T01:14:46Z",
+  "version": "0.2.24",
+  "notes": "VideoMark 0.2.24",
+  "pub_date": "2026-09-25T03:39:21Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUZNVC84RldJVzRZUFMzeUlJRFBzZ3B5dkxmRTZoOCtoRU1tUzZuTXVObUNEUm9xUis4UGFmZkxJbC9uSm1rd29WSU90cDVqUE5BS0tsbTVteEdzY1FzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMjk4ODg1CWZpbGU6VmlkZW9NYXJrXzAuMi4yM194NjQtc2V0dXAuZXhlCkk0YlJPSmhxQTRvRXJCM2VvZmRvQmFha0RlN212emh1MzY5c1RwbWxKNHFiZ3E3Z2xNVXJsV2p0L0ZZQkdwR3VZYkxlNi9qMmE2UjN5dTRCWkN2bkJ3PT0K",
-      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.23/VideoMark_0.2.23_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUZjTWt4RTdpZ2hsY203TmVMSTE1Y1dXdDJ4MktMdCtFcTExSUpuTEgySUFYY3duWWM4VGdzZW9IczREODd2T3oyVFhoa3c2aFV3QzJGNEVMN3REcnc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwMzA3NTYwCWZpbGU6VmlkZW9NYXJrXzAuMi4yNF94NjQtc2V0dXAuZXhlClRuOEJ2amx3SEFDZEJ5RmNMVWpaRDFnNEl4YU5iYVFBaDRmUkltRTNLS1J5M0tJRk9xUDhneVVud1VpRk9NNWtkS3BGVCt0NW0xUkN4K0dLYjZKVkRBPT0K",
+      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.24/VideoMark_0.2.24_x64-setup.exe"
     }
   }
 }
