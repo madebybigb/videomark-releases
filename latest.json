@@ -1,10 +1,10 @@
 {
   "version": "0.2.28",
-  "notes": "Added: · Subtle sounds now follow you around the editor: controls whisper on hover, dropdown menus tick once per row as you arrow through them, sidebar sections chirp when opened or closed, and drop zones sweep when a file arms them and buzz when they refuse one. Everything stays quiet under \"reduce motion\" and while typing. · Changed: · A section with a custom colour now carries that colour through its controls, not just its stripe: the outlines of its secondary buttons (\"+ Attach image\", \"Choose…\"), its text inputs at rest and on focus, its profile rows at rest and on hover, the ring that marks the drop target while you drag-reorder sections, and the dragged card itself, which glows in its own colour so it stays identifiable against the boxes it passes over. · Fixed: · \"Continue last session\" on the home screen now actually continues when the session was saved from the home screen itself: it opens the editor instead of silently re-showing the home screen, and its subtitle names the page it will open. · Profiles rows in the editor sidebar no longer clip their Delete action off the panel edge — row actions (rename, update, remove cover, delete) are compact icons instead of text buttons. · A profile whose cover image or video file went missing now falls back to the default artwork instead of showing a blank box.",
-  "pub_date": "2026-09-30T02:54:14Z",
+  "notes": "VideoMark 0.2.28",
+  "pub_date": "2026-09-30T03:05:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUF5SG96bmc4TmFmZXlWbzEwQ21JVjZJNkhhckEzV0U0WEd5dGNBNFRSNTNPYXpxdTEwV3MvKzVJMytrZ1hJbnV3a3FlNW1PekRXMkhDVEVqQXB1cWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzM2NjE5CWZpbGU6VmlkZW9NYXJrXzAuMi4yOF94NjQtc2V0dXAuZXhlCm9mQW0waUI5Rm5nYUJZSVVxTVB2eUc1T1paWEx2enZVT05DWEl4Qlp0eDk3OU9YdUxZa1RCWmxwcEF5L2FQc0JDWlQ5TXJzRldZWGhiV2lDbU9mSUJRPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUFvSENYM1BPVDRpMG04Mnp5RDJIR0xmN3Y1UGxJTGRyS3NVVDEzVDFSNUxFcG1vU05zSGIrUzR2aTlxZ3ZKUUlQWmRYV2pYYTRmWE9FSVhpK1J5cmdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNzM3NTE3CWZpbGU6VmlkZW9NYXJrXzAuMi4yOF94NjQtc2V0dXAuZXhlClNMV0llajBEZ2lra0dTRFJnem5Cd2FSV2h4RGlxaW9VR2NUek42RzdZUTRqWE9qekVQSkZjQm42VUtlZk4vYTk2ZUlyc1ZicUY0SmdPWWxFQjVNVUJRPT0K",
       "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.28/VideoMark_0.2.28_x64-setup.exe"
     }
   }
