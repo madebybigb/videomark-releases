@@ -1,11 +1,11 @@
 {
-  "version": "0.2.30",
-  "notes": "Added: · The video editor now comes in two sizes, switched from the top bar. Simple shows only what a beat video needs — Media (drop the beat, drop the cover art) and Producer tag — while Advanced is the full workshop the editor has always been: layout and framing, text, shapes, images, profiles and YouTube metadata. The choice sticks for every project. Anything Simple hides is untouched: a preset that carries a text line, a shape or an image still renders and exports exactly as before. · Changed: · Destructive-action confirmations no longer open a window-centred dialog: deleting a profile from the metadata panel's footer button, the Clear buttons for the metadata page, the batch queue, and the editor's data, and removing an image that is remembered for every new video, all now confirm in a small pop-up anchored to the button you clicked — the same treatment the profile-row confirmations already had. \"Clear data\" keeps its checkboxes inside the pop-up, and the remembered-image question keeps all three answers (\"Cancel\", \"This video only\", \"Remove and forget\").",
-  "pub_date": "2026-10-02T02:29:36Z",
+  "version": "0.2.31",
+  "notes": "VideoMark 0.2.31",
+  "pub_date": "2026-10-02T03:19:27Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYU1HR09xbHEvV3Q5ZWxFdzExYnlJRmFnM3FHNS96TTdTakVPTWpYYmwwTkhiTHNyWVozSjNhL1NENWd3RVZLMVpQUnZydnJ2NGFpVHhLbUl3am5kdXc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTA4MTcwCWZpbGU6VmlkZW9NYXJrXzAuMi4zMF94NjQtc2V0dXAuZXhlCjJuRnFLTWduMTlRTUtCWXh3LzQ2WE1GVTJUVHhTRUR1WlZOWlN3T0hUekdDQjZBYTZobE41U0Y5TXBxdUdxYyt5MEh5QVlOQWVtOWE0N1VHVGxyR0NnPT0K",
-      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.30/VideoMark_0.2.30_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUtTaXhPUHZTSU9lS2p1NXpGVW0xcUtNR05mQm5IUEIybXFwM25hbjFoUHFZRjlTajZPZWxVKzQvUEd4WUtXSWd3c2czcENaMWhDanZ2cldmcmtyemdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTExMTY2CWZpbGU6VmlkZW9NYXJrXzAuMi4zMV94NjQtc2V0dXAuZXhlCjFnZ3NBZ1BNREo5NC94UnErc1NEMyt6L0YvZytQSDhlY2cySGJTalQ5YktoblhEQlFjUm9CMTJEYmxhaGFSV2RkT1orUmg3bkxmREJ5R1hlOEwxTUNnPT0K",
+      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.31/VideoMark_0.2.31_x64-setup.exe"
     }
   }
 }
