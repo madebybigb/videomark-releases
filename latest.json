@@ -1,6 +1,6 @@
 {
   "version": "0.2.31",
-  "notes": "VideoMark 0.2.31",
+  "notes": "Added: · More of the app answers with a sound: copying a field, switching the editor between Simple and Advanced, and dropping a sidebar panel or queue item into a new place all ring now. A batch run also says how it ended — a low tone when it finished with failures, a settling one when you stopped it — where both used to end in silence. · Changed: · Simple mode now keeps Layout & cover next to Media and Producer tag, so a beat video's frame — the layout template, the cover zoom and pan — is part of the simple setup. Advanced still shows every panel, and a project that carries text, shapes or images is untouched either way.",
   "pub_date": "2026-10-02T03:19:27Z",
   "platforms": {
     "windows-x86_64": {
