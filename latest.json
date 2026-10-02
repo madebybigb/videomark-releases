@@ -1,6 +1,6 @@
 {
   "version": "0.2.30",
-  "notes": "VideoMark 0.2.30",
+  "notes": "Added: · The video editor now comes in two sizes, switched from the top bar. Simple shows only what a beat video needs — Media (drop the beat, drop the cover art) and Producer tag — while Advanced is the full workshop the editor has always been: layout and framing, text, shapes, images, profiles and YouTube metadata. The choice sticks for every project. Anything Simple hides is untouched: a preset that carries a text line, a shape or an image still renders and exports exactly as before. · Changed: · Destructive-action confirmations no longer open a window-centred dialog: deleting a profile from the metadata panel's footer button, the Clear buttons for the metadata page, the batch queue, and the editor's data, and removing an image that is remembered for every new video, all now confirm in a small pop-up anchored to the button you clicked — the same treatment the profile-row confirmations already had. \"Clear data\" keeps its checkboxes inside the pop-up, and the remembered-image question keeps all three answers (\"Cancel\", \"This video only\", \"Remove and forget\").",
   "pub_date": "2026-10-02T02:29:36Z",
   "platforms": {
     "windows-x86_64": {
