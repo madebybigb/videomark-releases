@@ -1,11 +1,11 @@
 {
-  "version": "0.2.31",
-  "notes": "Added: · More of the app answers with a sound: copying a field, switching the editor between Simple and Advanced, and dropping a sidebar panel or queue item into a new place all ring now. A batch run also says how it ended — a low tone when it finished with failures, a settling one when you stopped it — where both used to end in silence. · Changed: · Simple mode now keeps Layout & cover next to Media and Producer tag, so a beat video's frame — the layout template, the cover zoom and pan — is part of the simple setup. Advanced still shows every panel, and a project that carries text, shapes or images is untouched either way.",
-  "pub_date": "2026-10-02T03:19:27Z",
+  "version": "0.2.32",
+  "notes": "VideoMark 0.2.32",
+  "pub_date": "2026-10-02T22:11:43Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUtTaXhPUHZTSU9lS2p1NXpGVW0xcUtNR05mQm5IUEIybXFwM25hbjFoUHFZRjlTajZPZWxVKzQvUEd4WUtXSWd3c2czcENaMWhDanZ2cldmcmtyemdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTExMTY2CWZpbGU6VmlkZW9NYXJrXzAuMi4zMV94NjQtc2V0dXAuZXhlCjFnZ3NBZ1BNREo5NC94UnErc1NEMyt6L0YvZytQSDhlY2cySGJTalQ5YktoblhEQlFjUm9CMTJEYmxhaGFSV2RkT1orUmg3bkxmREJ5R1hlOEwxTUNnPT0K",
-      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.31/VideoMark_0.2.31_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTWXFJOERsTnowYUxETlJYNmZxVThYRjFQdUppbFVjYk5QZkQ0bEZSRHY0RHljR05JQXE0dUhKSEZ0cTRySXNSb1g1Z1ZKVkkvWTNoV2pCNmZhcW83VVdkNFRvZWtIa0FjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwOTc5MTAyCWZpbGU6VmlkZW9NYXJrXzAuMi4zMl94NjQtc2V0dXAuZXhlClNvYmkvSSsxeEhaMGxuY205ZDZTOVNKTkRYbFpGQVFIYVFHK0UwTDZDRTQxdTQyZlNEN2FGUmpJWFZUZE9ZTmU5Y2QwZnR4YjNFcUYwb29BQTQ4dUR3PT0K",
+      "url": "https://github.com/madebybigb/videomark-releases/releases/download/v0.2.32/VideoMark_0.2.32_x64-setup.exe"
     }
   }
 }
